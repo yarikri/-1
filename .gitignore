@@ -1,0 +1,35 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+# Компилированные артефакты (то, что делает make)
+*.o
+*.a
+*.exe
+
+# Папки, куда make может складывать результаты
+build/
+bin/
+obj/
+venv/
+
+# Отладочные символы
+*.pdb
+*.dSYM/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*~
+
+# ОС
+.DS_Store
+Thumbs.db
+
+# Логи
+*.log
