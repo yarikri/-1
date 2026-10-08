@@ -92,3 +92,4 @@ sc delete WinDivert
 * Many thanks to [bol-van](https://github.com/bol-van/), creator of original [zapret](https://github.com/bol-van/zapret/) repository.
 # -1
 # -1
+# -1
