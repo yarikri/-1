@@ -1,0 +1,8 @@
+ferry_unnamed
+ferry_named
+ferry_independent
+ferry_process
+dispatcher_process
+cars_process
+logs/*
+!logs/.gitkeep
